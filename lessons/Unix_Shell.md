@@ -114,8 +114,6 @@ we have 6000 files?
   
 #### Multiple Choice Questions 7 & 8 via Socrative.org (2 questions)
 
-#### Challenge Question 1 (keynote slides)
-
 ## Loops
 We have learned a number of ways to save time (e.g. tab completion, wild-cards and pipes),
 now we are going to learn another way to save time, that works especially well when you 
@@ -195,7 +193,7 @@ file (i.e., a script) for re-use.
 ## Finding Things
 
 * `grep`
-#### Multiple Choice Questions 8 via Socrative.org (1 question)
+#### Multiple Choice Question 13 via Socrative.org (1 question)
 
 * `find`
-#### Multiple Choice Questions 9 via Socrative.org (1 question)
+#### Multiple Choice Question 14 via Socrative.org (1 question)
