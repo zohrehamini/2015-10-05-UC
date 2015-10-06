@@ -6,7 +6,7 @@ The first time we use Git on a new machine,
 we need to configure a few things.
 Here's how:
 
-~~~ {.bash}
+~~~
 $ git config --global user.name "Vlad Dracula"
 $ git config --global user.email "vlad@tran.sylvan.ia"
 $ git config --global color.ui "auto"
@@ -142,13 +142,6 @@ we can ask Git to show us the project's history using `git log`:
 
 ~~~ 
 $ git log
-~~~
-~~~ {.output}
-commit f22b25e3233b4645dabd0d81e651fe074bd8e73b
-Author: Vlad Dracula <vlad@tran.sylvan.ia>
-Date:   Thu Aug 22 09:51:46 2013 -0400
-
-    Added a Header to the README file
 ~~~
 
 `git log` lists all revisions  made to a repository in reverse chronological order.
